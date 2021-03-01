@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5683" started-at="2021-03-01T00:40:48Z" finished-at="2021-03-01T00:40:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5683" started-at="2021-03-01T00:40:48Z" finished-at="2021-03-01T00:40:54Z">
+      <class name="tests.Requests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.Requests@28f67ac7]" name="setup" is-config="true" duration-ms="243" started-at="2021-03-01T02:40:48Z" finished-at="2021-03-01T02:40:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getAllUsers()[pri:0, instance:tests.Requests@28f67ac7]" name="getAllUsers" duration-ms="3342" started-at="2021-03-01T02:40:48Z" finished-at="2021-03-01T02:40:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllUsers -->
+        <test-method status="PASS" signature="getSpecificUser()[pri:0, instance:tests.Requests@28f67ac7]" name="getSpecificUser" duration-ms="567" started-at="2021-03-01T02:40:51Z" finished-at="2021-03-01T02:40:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSpecificUser -->
+        <test-method status="PASS" signature="createPost()[pri:0, instance:tests.Requests@28f67ac7]" name="createPost" duration-ms="752" started-at="2021-03-01T02:40:52Z" finished-at="2021-03-01T02:40:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPost -->
+        <test-method status="PASS" signature="getAllPosts()[pri:0, instance:tests.Requests@28f67ac7]" name="getAllPosts" duration-ms="545" started-at="2021-03-01T02:40:53Z" finished-at="2021-03-01T02:40:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllPosts -->
+        <test-method status="PASS" signature="getSpecificPost()[pri:0, instance:tests.Requests@28f67ac7]" name="getSpecificPost" duration-ms="462" started-at="2021-03-01T02:40:53Z" finished-at="2021-03-01T02:40:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSpecificPost -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.Requests@28f67ac7]" name="tearDown" is-config="true" duration-ms="255" started-at="2021-03-01T02:40:54Z" finished-at="2021-03-01T02:40:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Requests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
