@@ -1,5 +1,6 @@
 # APITask
 
+Automating JSONPlaceholder REST API - https://jsonplaceholder.typicode.com/
 
 ### Prerequisites
 
